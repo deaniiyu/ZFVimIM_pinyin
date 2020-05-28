@@ -5308,6 +5308,7 @@ yanshen 延伸
 yanshi 演示
 yanshou 验收
 yansuan 盐酸
+yanwu 厌恶
 yanxu 延续
 yanxue 研学
 yanyan 颜颜
