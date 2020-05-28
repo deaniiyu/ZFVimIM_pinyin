@@ -26,6 +26,7 @@ anzhuang 安装
 anzhuangbao 安装包
 anzhuo 安卓
 ao 奥 澳 傲 熬 敖 凹 袄 懊 坳 嗷 拗 鏖 骜 鳌 翱 岙 廒 遨 獒 聱 媪 螯 鏊 厫 嗸 噢 嚣 嚻 囂 垇 墺 墽 奡 奧 媼 嫯 岰 嶅 嶴 慠 扷 抝 摮 擙 柪 梎 棍 泑 浇 滶 澆 澚 熝 爊 獓 璈 眑 磝 磽 礉 翶 翺 芺 蔜 蝹 襖 謷 謸 軪 郩 鏕 镺 隞 驁 鰲 鴁 鴢 鷔 鼇
+aohui 懊悔
 aoman 傲慢
 aoti 奥体
 aoxue 傲雪
@@ -5526,6 +5527,7 @@ yiwancheng 已完成
 yiwang 以往 遗忘
 yiwei 以为
 yiwen 一问 译文
+yiwusuohuo 一无所获
 yixia 一下 以下
 yixiang 意向
 yixiao 一笑

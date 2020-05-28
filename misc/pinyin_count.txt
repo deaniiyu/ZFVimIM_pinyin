@@ -1,6 +1,7 @@
 a 2
 an 1
 ao 1
+aohui 1
 babangding 1
 banben 1
 bangding 2
@@ -370,6 +371,7 @@ xiangjia 1
 xiangtong 5
 xianshi 1
 xianxia 2
+xianzhu 1
 xianzhuang 2
 xiao 4
 xiaoguo 2
@@ -410,6 +412,7 @@ yinci 2
 yingyong 2
 yishang 1
 yitian 1
+yiwusuohuo 1
 yixia 3 2
 yixie 1
 yizhi 3
