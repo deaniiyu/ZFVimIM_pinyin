@@ -1300,6 +1300,7 @@ fasheng 发生
 fashou 发收
 fasong 发送
 fasongru 发送如
+fatuhanshu 发图函数
 faxian 发现
 faxin 发信
 faxue 法学

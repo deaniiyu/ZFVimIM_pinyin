@@ -112,12 +112,13 @@ e 1
 er 1
 erweima 1
 erxuanyi 1
-fa 2
+fa 3
 fang 1 1
 fangshi 2
 fanhui 16
 fanwei 1
 faqi 14
+fatuhanshu 1
 fei 3
 feng 3 2
 fenge 1
@@ -344,7 +345,7 @@ tongzhi 4
 toufa 1
 touzizhe 1
 tu 4 1
-tuhanshu 1
+tuhanshu 2
 tuisong 6
 tuo 2
 tuyouhua 1
