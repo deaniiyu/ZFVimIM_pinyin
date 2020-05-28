@@ -38,7 +38,7 @@ buzuo 1
 ca 2
 cacuowuma 1
 cai 1 1
-caifu 1
+caifu 2
 caige 1
 caizhi 2
 canjian 5
@@ -344,8 +344,8 @@ tongyige 2
 tongzhi 4
 toufa 1
 touzizhe 1
-tu 4 1
-tuhanshu 2
+tu 5 1
+tuhanshu 3
 tuisong 6
 tuo 2
 tuyouhua 1
@@ -388,7 +388,7 @@ xiaoguo 2
 xiaohao 1
 xiaoshi 1
 xiaoxi 7
-xiaoyong 1
+xiaoyong 2
 xiazai 2
 xieyi 1
 xilie 1
