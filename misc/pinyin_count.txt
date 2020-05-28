@@ -197,6 +197,7 @@ jisuan 2
 jizhong 1 1
 ju 2
 juece 1
+juecezhe 1
 juede 1
 jujue 5
 kai 2
@@ -263,6 +264,7 @@ paixu 2
 panduan 1
 pei 1
 peizhi 2
+pianhao 1
 pifu 2
 ping 16
 pingfen 4
