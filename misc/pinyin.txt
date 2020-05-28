@@ -1535,7 +1535,7 @@ geshi 格式
 geshihua 格式化
 geshou 歌手
 geshu 个数
-geti 各题
+geti 个体 各题
 gewei 个位 各位
 geweishu 个位数
 gewu 歌舞
@@ -4893,6 +4893,7 @@ wuti 物体
 wuxi 无锡
 wuxian 诬陷 无线
 wuxiao 无效
+wuxiekeji 无懈可击
 wuxing 无形
 wuxiu 午休
 wuxu 无需

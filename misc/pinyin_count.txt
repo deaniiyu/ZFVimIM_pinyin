@@ -132,6 +132,7 @@ ge 2
 gen 3
 genju 2
 gequ 2
+geti 1
 gongshi 1 1
 gouxuan 4
 guajian 1
@@ -353,6 +354,7 @@ wo 1
 wojuede 1
 wu 1
 wufa 2
+wuxiekeji 1
 xi 2
 xia 5
 xiaai 1
