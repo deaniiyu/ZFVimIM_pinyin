@@ -149,7 +149,7 @@ gun 1
 h 4
 hai 3
 haixing 2
-hanshu 1
+hanshu 3
 hao 1
 haode 1
 he 7
@@ -342,7 +342,7 @@ tongyige 2
 tongzhi 4
 toufa 1
 touzizhe 1
-tu 2
+tu 3 1
 tuisong 6
 tuo 2
 tuyouhua 1
