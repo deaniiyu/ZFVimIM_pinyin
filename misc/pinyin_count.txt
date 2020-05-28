@@ -266,6 +266,7 @@ paixu 2
 panduan 1
 pei 1
 peizhi 2
+pianai 1
 pianhao 1
 pifu 2
 ping 16
@@ -348,6 +349,7 @@ wancheng 5
 wangguan 1
 wanquan 3
 wei 17 1 1
+weiguan 1
 weile 1
 weiyi 1
 weiyu 1
