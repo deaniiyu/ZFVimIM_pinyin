@@ -210,7 +210,7 @@ kaiqi 2
 kaolv 1
 ke 3
 keneng 2
-keshi 1
+keshi 2
 kexuan 2
 kong 12
 kongzhi 4
@@ -363,7 +363,7 @@ wen 1 1
 wendang 1
 wendu 4
 wenti 2
-wo 1
+wo 2
 wojuede 1
 wu 1
 wufa 2
