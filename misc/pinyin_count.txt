@@ -162,7 +162,7 @@ huidiao 1
 huifu 1
 huo 11
 huodong 1
-huoli 2
+huoli 3
 huoqu 13
 ji 2
 jia 2
@@ -354,6 +354,7 @@ wu 1
 wufa 2
 xi 2
 xia 5
+xiaai 1
 xian 1
 xiang 1 1 1
 xiangduiying 1
