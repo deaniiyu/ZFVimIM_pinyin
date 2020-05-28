@@ -149,7 +149,7 @@ gun 1
 h 4
 hai 3
 haixing 2
-hanshu 3
+hanshu 4
 hao 1
 haode 1
 he 7
@@ -209,6 +209,7 @@ kaiqi 2
 kaolv 1
 ke 3
 keneng 2
+keshi 1
 kexuan 2
 kong 12
 kongzhi 4
@@ -342,7 +343,8 @@ tongyige 2
 tongzhi 4
 toufa 1
 touzizhe 1
-tu 3 1
+tu 4 1
+tuhanshu 1
 tuisong 6
 tuo 2
 tuyouhua 1
