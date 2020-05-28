@@ -345,7 +345,7 @@ tongzhi 4
 toufa 1
 touzizhe 1
 tu 5 1
-tuhanshu 3
+tuhanshu 4
 tuisong 6
 tuo 2
 tuyouhua 1
@@ -479,4 +479,4 @@ zong 1
 zongjie 1
 zui 5
 zuichang 1
-zuidahua 1
+zuidahua 2
