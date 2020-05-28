@@ -193,7 +193,7 @@ jilu 4
 jimiao 1
 jin 3
 jindang 1
-jingji 1
+jingji 2
 jinxing 4
 jinzhi 3 2
 jisuan 2
@@ -368,6 +368,7 @@ wuxiekeji 1
 xi 2
 xia 5
 xiaai 1
+xiajiang 1
 xian 1
 xiang 1 1 1
 xiangduiying 1
@@ -376,7 +377,7 @@ xiangjia 1
 xiangtong 5
 xianshi 1
 xianxia 2
-xianzhi 1
+xianzhi 2
 xianzhu 1
 xianzhuang 2
 xiao 4
@@ -409,7 +410,7 @@ yaoqiu 1
 ye 3
 yemian 4
 yi 3 2 1
-yiban 1
+yiban 2
 yichang 2
 yiding 1
 yige 6
