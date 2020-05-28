@@ -1,4 +1,5 @@
 a 2
+an 1
 ao 1
 babangding 1
 banben 1
@@ -143,6 +144,7 @@ gun 1
 h 4
 hai 3
 haixing 2
+hanshu 1
 hao 1
 haode 1
 he 7
@@ -327,7 +329,7 @@ tongshi 2
 tongyige 2
 tongzhi 4
 toufa 1
-tu 1
+tu 2
 tuisong 6
 tuo 2
 waiwang 1
@@ -376,6 +378,7 @@ xiyinli 1
 xuanxiang 1
 xuanxiu 1
 xuyao 10
+ya 1
 yan 1
 yanchang 4
 yanchi 1
@@ -410,6 +413,7 @@ yuliu 1
 yun 2
 yunduan 1
 yunxu 1
+yusu 1
 yuxian 1
 yuyue 1
 zai 5 3
