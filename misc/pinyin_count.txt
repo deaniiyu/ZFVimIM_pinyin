@@ -196,6 +196,7 @@ jinzhi 3 2
 jisuan 2
 jizhong 1 1
 ju 2
+juece 1
 juede 1
 jujue 5
 kai 2
