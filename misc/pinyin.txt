@@ -373,6 +373,7 @@ cai 猜 才 采 菜 财 材 彩 裁 蔡 踩 睬 倸 偲 啋 埰 婇 寀 戝 扐 
 caice 猜测
 caida 财大
 caidan 菜单
+caifu 财富
 caigan 才干
 caige 猜歌
 caigou 采购
@@ -5739,6 +5740,7 @@ yuren 育人
 yusai 预赛
 yushi 于是
 yusu 语速
+yusuan 预算
 yutian 与田 预填
 yuting 雨亭
 yutu 与图

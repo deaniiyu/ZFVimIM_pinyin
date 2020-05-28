@@ -36,6 +36,7 @@ buzuo 1
 ca 2
 cacuowuma 1
 cai 1 1
+caifu 1
 caige 1
 caizhi 2
 canjian 5
@@ -415,6 +416,7 @@ yun 2
 yunduan 1
 yunxu 1
 yusu 1
+yusuan 1
 yuxian 1
 yuyue 1
 zai 5 3
