@@ -416,6 +416,7 @@ canjia 参加
 canjian 参见
 cankan 参看
 cankao 参考
+cankaodian 参考点
 canku 残酷
 cansai 参赛
 canshu 参数

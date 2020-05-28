@@ -42,6 +42,7 @@ caifu 1
 caige 1
 caizhi 2
 canjian 5
+cankaodian 1
 canshu 2
 caozuo 3
 ce 5 1 1
