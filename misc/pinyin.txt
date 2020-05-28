@@ -2222,6 +2222,7 @@ jiaoxue 教学
 jiaoxun 教训
 jiaoyan 校验 教研
 jiaoyi 交易
+jiaoyizhe 交易者
 jiaoyu 教育
 jiaozhi 教指
 jiaozhou 胶州
@@ -4578,6 +4579,7 @@ toutong 头痛
 touxian 头衔
 touxiang 头像
 touzi 投资
+touzizhe 投资者
 tu 图 土 突 途 徒 屠 涂 吐 兔 秃 凸 荼 酴 钍 菟 堍 余 兎 凃 唋 啚 図 圖 圗 圡 堗 塗 墿 宊 峹 嵞 嶀 庩 廜 怢 悇 捈 捸 揬 摕 斁 杜 梌 檡 汢 涋 湥 潳 瑹 痜 瘏 禿 稌 筡 腞 腯 莵 葖 蒤 趃 跌 跿 迌 釷 鈯 鋀 鋵 鍎 馟 駼 鵌 鵚 鵵 鶟 鷋 鷵 鼵
 tuan 团 湍 抟 疃 彖 剬 剸 団 圕 團 塼 墥 嫥 專 慱 摶 敦 槫 檲 湪 漙 煓 猯 畽 磚 稅 税 篿 糰 蓴 褍 褖 貒 鏄 鱄 鶉 鷒 鷻 鹑
 tuandui 团队

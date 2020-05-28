@@ -173,6 +173,7 @@ jianhua 1
 jianyi 10
 jiaoduo 1
 jiaohu 1
+jiaoyizhe 1
 jiazai 3
 jiding 4
 jidinghe 4
@@ -330,6 +331,7 @@ tongshi 2
 tongyige 2
 tongzhi 4
 toufa 1
+touzizhe 1
 tu 2
 tuisong 6
 tuo 2
